@@ -1,1 +1,1 @@
-print("hello world")
+import tomsup as ts
